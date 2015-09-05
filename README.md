@@ -2,4 +2,4 @@
 
 This document will be used to explain some features of git .
 
-Second  Edition  
+Third  Edition  
