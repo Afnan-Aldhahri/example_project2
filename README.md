@@ -12,6 +12,7 @@ cd hw2
 vi readme.md
 
 **Master Bransh:**
+
 1.	git init
 
 2.	git add readme.md
@@ -111,23 +112,19 @@ Bug-Fix Bransh:
 add this line for commit 0  <br>
 add this line for commit 1  <br>
 add this line for commit 2  <br>
-add this line for commit 10
-add this line after  commit 13
-add this line for commit 14
+add this line for commit 10 <br>
+add this line after  commit 13 <br>
+add this line for commit 14 <br>
 
-*on bug-fix branch :*
-add this line for commit 3
-add this line for commit 4 
-add this line for commit 5
-add this line for commit 6
-add this line for commit 11
-add this line for commit 12
+*on bug-fix branch :* 
+add this line for commit 3 <br>
+add this line for commit 4 <br>
+add this line for commit 5 <br>
+add this line for commit 6 <br>
+add this line for commit 11 <br>
+add this line for commit 12 <br>
 
 *on bug-fix-experimental branch :*
-add this line for commit 7
-add this line for commit 8
-add this line for commit 9
--------------------------------------
-
-
-
+add this line for commit 7 <br>
+add this line for commit 8 <br>
+add this line for commit 9 <br>
