@@ -3,12 +3,15 @@
 
 **Note :**
 * I wrote also others Mac OSX Terminal (VI editor) just for my info 
-* please check the Screenshot-HW2.jpg file in my repo if you want to see my repo visualization by Gitup . I am proud of my repo :) .  
+* please check the *Screenshot-HW2.jpg* file in my repo if you want to see my repo visualization by *Gitup* . 
+* I am proud of my repo :) .  
 
 Lets start :
 
 mkdir hw2
+
 cd hw2
+
 vi readme.md
 
 **Master Bransh:**
@@ -85,7 +88,7 @@ vi readme.md
 
 33.	git checkout bug-fix
 
-Bug-Fix Bransh:
+**Bug-Fix Bransh:**
 
 34.	git merge bug-fix-experimental //there is conflict
 
