@@ -109,7 +109,7 @@ vi readme.md
 42.	git commit   // commit 14
 
 ------------------------------------------------
-**I was writing these lines while I am working on my Repo :(just for my info) **
+** I was writing these lines while I am working on my Repo :(just for my info) **
 
 *on master:*
 add this line for commit 0  <br>
