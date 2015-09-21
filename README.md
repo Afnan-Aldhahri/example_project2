@@ -4,7 +4,8 @@
 **Note :**
 * I wrote also others Mac OSX Terminal (VI editor) just for my info 
 * please check the *Screenshot-HW2.jpg* file in my repo if you want to see my repo visualization by *Gitup* . 
-* I am proud of my repo :) .  
+* I am so proud of my repo :) 
+
 
 Lets start :
 
