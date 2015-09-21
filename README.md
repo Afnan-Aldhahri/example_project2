@@ -1,5 +1,5 @@
 
-# Git command history to build this Repo :
+#Git command history to build this Repo :
 
 **Note :**
 * I wrote also others Mac OSX Terminal (VI editor) just for my info 
@@ -13,14 +13,23 @@ vi readme.md
 
 **Master Bransh:**
 1.	git init
+
 2.	git add readme.md
+
 3.	git commit   // commit 0
+
 4.	vi readme.md  , git add readme.md
+
 5.	git commit   // commit 1
+
 6.	 vi readme.md  , git add readme.md
+
 7.	git commit   // commit 2
+
 8.	git log 
+
 9.	git checkout cea6e43f17e7a736b96ae67fb8081de810c25746
+
 **Bug-Fix Bransh:**
 10.	git checkout -b bug-fix
 11.	vi readme.md  , git add readme.md
@@ -61,8 +70,8 @@ Bug-Fix Bransh:
 
 
 ------------------------------------------------
-##I was writing these lines while I am working on my Repo :(just for my info) 
------------------------------------
+**I was writing these lines while I am working on my Repo :(just for my info) **
+
 *on master:*
 add this line for commit 0
 add this line for commit 1
